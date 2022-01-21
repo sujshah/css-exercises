@@ -1,0 +1,19 @@
+.pink-class {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #ffc0cb;
+}
+
+.larger-font {
+    font-size: 24px;
+}
+
+#blue-id {
+    color: #0000ff;
+    font-size: 24px;
+}
+
+#green-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
